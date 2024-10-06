@@ -20,3 +20,6 @@
   <a href="https://www.instagram.com/marcelo_d.ceu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-do-c%C3%A9u-queiroz-j%C3%BAnior-972bab170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+- Contate-me no email: queirozceu.jr@gmail.com
+- Whatsapp: +55 11 972252900
